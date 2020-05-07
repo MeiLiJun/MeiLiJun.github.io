@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://meilijun.github.io/</id>
     <title>MeiLiJun</title>
-    <updated>2020-05-06T09:58:55.403Z</updated>
+    <updated>2020-05-07T00:08:48.976Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://meilijun.github.io/"/>
     <link rel="self" href="https://meilijun.github.io/atom.xml"/>
@@ -10,15 +10,6 @@
     <logo>https://meilijun.github.io/images/avatar.png</logo>
     <icon>https://meilijun.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, MeiLiJun</rights>
-    <entry>
-        <title type="html"><![CDATA[test]]></title>
-        <id>https://meilijun.github.io/post/test/</id>
-        <link href="https://meilijun.github.io/post/test/">
-        </link>
-        <updated>2020-05-06T09:28:04.000Z</updated>
-        <content type="html"><![CDATA[<p>cddsads</p>
-]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://meilijun.github.io/post/hello-gridea/</id>
